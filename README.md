@@ -5,7 +5,7 @@
 - **DevOps Engineer**
 - Linux enthusiast
 - JavaScript (Node.js)
-- Python scripting
+- Python/Bash scripting
 - Docker, Kubernetes
 - AWS Certified Cloud Solution Architect
 - Many unfinished projects..
