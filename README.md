@@ -1,11 +1,10 @@
-# Hi there, I'm Harry
+# Hi there,
 
 ## About Me
 
 - **DevOps Engineer**
-- Linux enthusiast
-- JavaScript/Golang
-- Python/Bash scripting
+- Linux
+- Python and Bash scripting
 - Docker, Kubernetes
 - AWS Certified Cloud Solution Architect
 - Many unfinished projects..
