@@ -15,5 +15,5 @@
 
 ## Connect with Me
 
-- [GitHub Profile](https://github.com/arushdesp)
+- [Website] password (https://arushdesp.github.io/personalwebsite/)
 - [Linkedin](https://www.linkedin.com/in/charilaos-mitsis-5220401bb/)
