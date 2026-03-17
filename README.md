@@ -11,7 +11,7 @@
   
 ## Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arushdesp&layout=compact&hide_border=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmitsis-dev&layout=compact&hide_border=true&theme=github_dark)
 
 ## Connect with Me
 
