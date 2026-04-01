@@ -4,10 +4,10 @@
 
 - **DevOps Engineer**
 - Linux
-- Python and Bash scripting
+- Python, Node.js, Go
 - Docker, Kubernetes
 - AWS Certified Cloud Solution Architect
-- Many unfinished projects..
+- Many unfinished projects...
   
 
 ## Connect with Me
