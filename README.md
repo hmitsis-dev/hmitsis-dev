@@ -2,7 +2,7 @@
 
 ## About Me
 - DevOps & Cloud Engineer based in Italy
-- Linux-firs
+- Linux-first
 - Python · Node.js · Go
 - Docker · Kubernetes
 - AWS Certified Solutions Architect
