@@ -2,6 +2,7 @@
 
 ## About Me
 - DevOps & Cloud Engineer based in Italy
+- Building and breaking stuff in production
 - Linux-first
 - Python · Node.js · Go
 - Docker · Kubernetes
@@ -10,7 +11,7 @@
 
 ## What I'm working on
 - **Grimoire** — portable AI identity layer, Go CLI + MCP server
-- **FinFin** — personal finance tracker with Telegram bot & Grafana
+- **Nomani** — personal finance tracker with Telegram bot & Grafana
 - **Toda-raba** — task management + GitHub Projects integration
 
 ## Connect
