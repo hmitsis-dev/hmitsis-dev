@@ -12,7 +12,7 @@
 ## What I'm working on
 - **Grimoire** — portable AI identity layer, Go CLI + MCP server
 - **Wasitdown** - Tool for Cloud and API providers incidents and down stats and timeline
-- **Nomani** — personal finance tracker with Telegram bot & Grafana
+- **EquivEx** — personal finance tracker with Telegram bot & Grafana
 - **Toda-raba** — task management + GitHub Projects integration
 
 ## Connect
